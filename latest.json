@@ -237,6 +237,6 @@
     "Assets/pallas-cards/Poker_Small_R_Bullet_FX03-fire.png": "00d95bbddffabf8a22b969fa7346dfcdb70eabc8827bc124a2e02e069269adc2",
     "Assets/pallas-cards/Poker_Small_R_Bullet_FX03-ice.png": "293b618ec9c5de0c97005d8040524f8b1923ec5184f2f068121f92bf5aa6cae5"
   },
-  "installSubdirectory": "NeprItem",
+  "installSubdirectory": "AddOns/NeprItem",
   "harmonyProfile": "native"
 }
